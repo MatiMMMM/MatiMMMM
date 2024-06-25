@@ -14,6 +14,4 @@
 
 
 **Latest opinion about me: (May 2024):**
-Kursant skutecznie zrealizował założenia szkolenia i posiadł wiedzę z technologii C#, która pozwoliła na pozytywne zaliczenie egzaminu podsumowującego. Jestem pewien, że zdobyte przez Mateusza umiejętności będą stanowiły solidną podstawę do dalszego rozwoju w dziedzinie programowania fullstackowego w technologii C#.
-
-- Adam Arczyński
+Kursant skutecznie zrealizował założenia szkolenia i posiadł wiedzę z technologii C#, która pozwoliła na pozytywne zaliczenie egzaminu podsumowującego. Jestem pewien, że zdobyte przez Mateusza umiejętności będą stanowiły solidną podstawę do dalszego rozwoju w dziedzinie programowania fullstackowego w technologii C#. - Adam Arczyński
